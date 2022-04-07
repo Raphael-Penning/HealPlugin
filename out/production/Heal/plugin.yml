@@ -1,0 +1,11 @@
+name: Heal
+authors:
+  - Raphael
+  - Michael
+main: de.raphael.heal.main.Main
+version: 1.1
+commands:
+  heal:
+    description: Heilt dich!
+  feed:
+    description: Füttert dich!

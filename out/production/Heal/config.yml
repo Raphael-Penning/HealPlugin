@@ -1,0 +1,5 @@
+server:
+  prefix: heal
+permissions:
+  heal: soft.heal
+  feed: soft.feed

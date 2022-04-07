@@ -1,0 +1,10 @@
+server:
+  prefix: heal
+permissions:
+  heal: soft.heal
+  feed: soft.feed
+##############################################
+##Hey, soll dieses Plugin erweitert werden? ##
+##Teile es mir über Discord mit:            ##
+##Raphael#3900                              ##
+##############################################

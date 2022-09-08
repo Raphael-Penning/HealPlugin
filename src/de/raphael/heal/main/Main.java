@@ -13,7 +13,7 @@ public class Main extends JavaPlugin {
         plugin = this;
         FileConfiguration config = Main.getPlugin().getConfig();
         saveDefaultConfig();
-        System.out.println("Das Plugin SoftHeal ist mit dem Prefix" + getConfig().getString("server.prefix") + " gestartet!");
+        System.out.println("Das Plugin Heal&Feed ist mit dem Prefix" + getConfig().getString("server.prefix") + " gestartet!");
         getCommand("heal").setExecutor((CommandExecutor)new HealCommand());
         getCommand("feed").setExecutor((CommandExecutor)new FeedCommand());
     }

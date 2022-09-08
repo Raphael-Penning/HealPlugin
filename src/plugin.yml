@@ -1,0 +1,7 @@
+main: de.raphael.heal.main.Main
+author: Raphael
+version: 1.0
+
+commands:
+    feed:
+    heal:
